@@ -4,3 +4,5 @@
 
 演示站：https://scum.qilane.com/
 QQ群：[712747623](https://jq.qq.com/?_wv=1027&k=eN4ZZ8Qo)
+
+下载链接：[releases-v1.1.0](https://github.com/qilane/qilane.github.io/releases/tag/v1.1.0)
